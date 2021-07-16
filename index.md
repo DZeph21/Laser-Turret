@@ -44,3 +44,9 @@ I mostly did the same with the servos in using jumper wires as all the wires in 
  <img src="https://www.arduino.cc/wiki/static/3d47d1a0387b849273761b1c6c049238/c7c3c/sweep_bb.png"> 
 
   </HTML>
+
+<br>
+<br>
+<br>
+<br>
+<br>
