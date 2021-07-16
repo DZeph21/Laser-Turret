@@ -17,7 +17,9 @@ This will serve as a brief description of your project. Limit this to three sent
 
 [![Second Milestone](}
 # first Milestone
- [![My First Milestone] { (https://res.cloudinary.com/marcomontalbano/image/upload/v1626442267/video_to_markdown/images/youtube--oy1FLbzxS0w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/oy1FLbzxS0w "My First Milestone"){:target="_blank" rel="noopener"} }
+ [![My First Milestone]
+ 
+{(https://res.cloudinary.com/marcomontalbano/image/upload/v1626442267/video_to_markdown/images/youtube--oy1FLbzxS0w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/oy1FLbzxS0w "My First Milestone"){:target="_blank" rel="noopener"} }
 
 
 [![First Milestone](In my first milestone, I managed to get my servos spinning along with my laser module blinking. Getting the laser module to blink was especially difficult as the wires were very loose and came undone very often but I did manage to fix the problem. I mainly used jumper wires to do this as they were perfect for extending the range and capability of the servos and laser module and allowed me to connnect specificwires to specific ports on my arduino without me worying about them coming undone.
