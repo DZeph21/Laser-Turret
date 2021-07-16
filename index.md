@@ -38,7 +38,7 @@ In my first milestone, I managed to get my servos spinning along with my laser m
 
 I mostly did the same with the servos in using jumper wires as all the wires in the servos were connected and there was no way to seperate them. However with the use of the jumper wires, I managed to easily connect the servo's wires to their correct ports. I connected thhe brown wire to the 2nd GND port, the red wire to the 5v port, and the orange wire to the 3 port. Through this simple porcess I managed to easily get my servos spinning without much trouble. 
 
-
+ 
 <HTML>
 
  <img src="https://www.arduino.cc/wiki/static/3d47d1a0387b849273761b1c6c049238/c7c3c/sweep_bb.png"> 
