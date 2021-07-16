@@ -67,7 +67,8 @@ In my first milestone, I managed to build the actual body of Simon Says using th
 
 In order to build the the actual body of the circuit, I used resisitors to regulate the energy flow throughout the breaboard and I also used jumper wires to connect my breadboard to my arduino to get the power from there.
 
-Along with that I used this code: ```c++
+Along with that I used this code: 
+```c++
 const int buttonPin1 = 13;// the number of the pushbutton pin
 const int buttonPin2 = 10;
 const int buttonPin3 = 6;
@@ -132,4 +133,4 @@ void loop() {
     digitalWrite(ledPinblue, LOW);
   }
 }
-```, to start my button mapping
+```
