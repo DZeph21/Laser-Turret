@@ -67,4 +67,69 @@ In my first milestone, I managed to build the actual body of Simon Says using th
 
 In order to build the the actual body of the circuit, I used resisitors to regulate the energy flow throughout the breaboard and I also used jumper wires to connect my breadboard to my arduino to get the power from there.
 
-Along with that I used this code: (insert code here), to start my button mapping
+Along with that I used this code: ```c++
+const int buttonPin1 = 13;// the number of the pushbutton pin
+const int buttonPin2 = 10;
+const int buttonPin3 = 6;
+const int buttonPin4 = 3;
+
+const int ledPingreen = 12;      // the number of the LED pin
+const int ledPinred = 9;
+const int ledPinyellow = 5;
+const int ledPinblue = 2;
+
+// variables will change:
+int buttonState1 = 0;         // variable for reading the pushbutton status
+int buttonState2 = 0;
+int buttonState3 = 0;
+int buttonState4 = 0;
+
+void setup() {
+  // initialize the LED pin as an output:
+  pinMode(ledPingreen, OUTPUT);
+  pinMode(ledPinred, OUTPUT);
+  pinMode(ledPinyellow, OUTPUT);
+  pinMode(ledPinblue, OUTPUT);
+  // initialize the pushbutton pin as an input:
+  pinMode(buttonPin1, INPUT);
+  pinMode(buttonPin2, INPUT);
+  pinMode(buttonPin3, INPUT);
+  pinMode(buttonPin4, INPUT);
+}
+
+void loop() {
+  // read the state of the pushbutton value:
+  buttonState1 = digitalRead(buttonPin1);
+  buttonState2 = digitalRead(buttonPin2);
+  buttonState3 = digitalRead(buttonPin3);
+  buttonState4 = digitalRead(buttonPin4);
+
+  // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
+  if (buttonState1 == HIGH) {
+    // turn Green LED on:
+    digitalWrite(ledPingreen, HIGH);
+  } else {
+    // turn Green LED off:
+    digitalWrite(ledPingreen, LOW);
+  }
+  if (buttonState2 == HIGH) {
+    // turn Red LED on:
+    digitalWrite(ledPinred, HIGH);
+  } else {
+    // turn Red LED off:
+    digitalWrite(ledPinred, LOW);
+  }if (buttonState3 == HIGH) {
+    // turn Yellow LED on:
+    digitalWrite(ledPinyellow, HIGH);
+  } else {
+    // turn Yellow LED off:
+    digitalWrite(ledPinyellow, LOW);
+  }if (buttonState4 == HIGH) {
+    // turn Blue LED on:
+    digitalWrite(ledPinblue, HIGH);
+  } else {
+    // turn Blue LED off:
+    digitalWrite(ledPinblue, LOW);
+  }
+}
+```, to start my button mapping
