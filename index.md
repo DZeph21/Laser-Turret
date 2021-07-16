@@ -21,5 +21,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 
 [![First Milestone](In my first milestone, I managed to get my servos spinning along with my laser module blinking. Getting the laser module to blink was especially difficult as the wires were very loose and came undone very often but I did manage to fix the problem. I mainly used jumper wires to do this as they were perfect for extending the range and capability of the servos and laser module and allowed me to connnect specificwires to specific ports on my arduino without me worying about them coming undone.
-i used was 
-The laser 
+
+The laser I used was the HiLetgo 10pcs 5v 650nm 5mW Red Dot Laser Head. I used jumper wires to connect the blue wire to a GND port on the arduino and used another to connect the red wire to the 7 port. Initally I just inserted the wires by themselves but after that proved to not work, I switched to jumper cables. The process was much easier after that.
+
+I mostly did the same with the servos in using jumper wires as all the wires in the servos were connected and there was no way to seperate them. However with the use of the jumper wires, I managed to easily connect the servo's wires to their correct ports. I connected thhe brown wire to the 2nd GND port, the red wire to the 5v port, and the orange wire to the 3 port. Through this simple porcess I managed to easily get my servos spinning without much trouble. 
