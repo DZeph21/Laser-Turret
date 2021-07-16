@@ -65,3 +65,6 @@ I mostly did the same with the servos in using jumper wires as all the wires in 
 
 In my first milestone, I managed to build the actual body of Simon Says using the guide above and got the basic button mapping down in which whenever I press a button, that specific LED turns off. The most difficult part of this was making sure the LEDs lit up as before only the yellow LED lit up. This issue was caused by the LEDs fscing the wrong way. Another issue I ran into was that the blue LED's button was unresponsive to me clicking it so after some careful studying of the circuit, I fixed the issue by rearranging the button's resistor so that it actually works.
 
+In order to build the the actual body of the circuit, I used resisitors to regulate the energy flow throughout the breaboard and I also used jumper wires to connect my breadboard to my arduino to get the power from there.
+
+Along with that I used this code: (insert code here), to start my button mapping
