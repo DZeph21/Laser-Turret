@@ -24,9 +24,15 @@ In my first milestone, I managed to get my servos spinning along with my laser m
 
 <HTML>
 
- <img src="https://www.arduino.cc/wiki/static/3d47d1a0387b849273761b1c6c049238/c7c3c/sweep_bb.png" width=300 align=left style="float:left; padding-right:10px"> 
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBVP5VYncAwXtPx7_SY93gvK7yFP2EyjP4Q&usqp=CAU" width=300 align=left style="float:left; padding-right:10px"> 
 
   </HTML>
   The laser I used was the HiLetgo 10pcs 5v 650nm 5mW Red Dot Laser Head. I used jumper wires to connect the blue wire to a GND port on the arduino and used another to connect the red wire to the 7 port. Initally I just inserted the wires by themselves but after that proved to not work, I switched to jumper cables. The process was much easier after that.
 
+
 I mostly did the same with the servos in using jumper wires as all the wires in the servos were connected and there was no way to seperate them. However with the use of the jumper wires, I managed to easily connect the servo's wires to their correct ports. I connected thhe brown wire to the 2nd GND port, the red wire to the 5v port, and the orange wire to the 3 port. Through this simple porcess I managed to easily get my servos spinning without much trouble. 
+<HTML>
+
+ <img src="https://www.arduino.cc/wiki/static/3d47d1a0387b849273761b1c6c049238/c7c3c/sweep_bb.png"> 
+
+  </HTML>
