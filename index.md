@@ -13,7 +13,8 @@ This will serve as a brief description of your project. Limit this to three sent
 [![Final Milestone](}
 
 # Second Milestone
-{Insert Milestone here}
+[![My Second Milestone]([![My Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1627047510/video_to_markdown/images/youtube--tY7o_4u5kbY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/tY7o_4u5kbY "My Second Milestone"){:target="_blank" rel="noopener"}
+
 
 [![Second Milestone](}
 # First Milestone
