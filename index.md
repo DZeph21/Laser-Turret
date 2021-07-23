@@ -16,8 +16,18 @@ This will serve as a brief description of your project. Limit this to three sent
 [![My Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1627047510/video_to_markdown/images/youtube--tY7o_4u5kbY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/tY7o_4u5kbY "My Second Milestone"){:target="_blank" rel="noopener"}
 
 
-In my second milestone, I managed to not only assemble the turret and get it firing and turning, but I also added a manual mode to it using pentonometers and a breaboard. This process required lots of patience as 
-[![Second Milestone](}
+In my second milestone, I managed to not only assemble the turret and get it firing and turning, but I also added a manual mode to it using pentonometers and a breaboard. This process required lots of patience as I had to use a lot more 
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+[![My Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1627069358/video_to_markdown/images/youtube--vkNBjVVC4_g-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/vkNBjVVC4_g "My Second Milestone"){:target="_blank" rel="noopener"}
+<br>
+<br>
+<br>
+<br>
+<br>
+
+In my second milestone, I managed to create my own code for Simon Says in which I made it so that all the buttons light up from the start and continue that way towards the end of the game as well. I also managed to replace my yellow LED with an orange one that is much brighter and nicer to look at. Finally, I replaced the resistors so that now all the LEDs are much brighter.
+
 # First Milestone
 [![My First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1626442267/video_to_markdown/images/youtube--oy1FLbzxS0w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/oy1FLbzxS0w "My First Milestone"){:target="_blank" rel="noopener"}
 
