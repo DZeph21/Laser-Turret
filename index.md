@@ -28,7 +28,7 @@ In my second milestone, I managed to not only assemble the turret and get it fir
 
 In my second milestone, I managed to create my own code for Simon Says in which I made it so that all the buttons light up from the start and continue that way towards the end of the game as well. I also managed to replace my yellow LED with an orange one that is much brighter and nicer to look at. Finally, I replaced the resistors so that now all the LEDs are much brighter.
 
-The code I wrote contains parts form both my Button Mapping code and the orginial Simon Says code as you can see her:
+The code I wrote contains parts form both my Button Mapping code and the orginial Simon Says code as you can see here:
 ```c++
 const int buttonPin1 = 13;// the number of the pushbutton pin
 const int buttonPin2 = 10;
